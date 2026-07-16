@@ -6,6 +6,12 @@
   "author": "",
   "type": "module",
   "main": "index.js",
+  "exports": {
+    ".": "./index.js",
+    "./scrolled-table.css": "./css/scrolled-table.css",
+    "./splited-table.css": "./css/splited-table.css",
+    "./table.css": "./css/table.css"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
