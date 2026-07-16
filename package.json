@@ -1,5 +1,5 @@
 {
-  "name": "@pablovf/tables",
+  "name": "@pablovaz/tables",
   "version": "1.0.0",
   "description": "",
   "license": "ISC",
@@ -11,6 +11,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pablim/nativejs-components.git"
+    "url": "git+https://github.com/pablim/tables.git"
   }
 }
